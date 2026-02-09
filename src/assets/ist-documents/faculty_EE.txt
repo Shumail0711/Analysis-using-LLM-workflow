@@ -1,0 +1,69 @@
+Syed Ali Irtaza, an Assistant Professor and a faculty member of the Department of Electrical Engineering, holds a PhD in Electrical Engineering from Hanyang University, South Korea. His areas of specialization are Compressed Sensing, Wireless & Mobile Communication.
+
+Ch. Bilal Ahmed Khan, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned his PhD in Management Science from Bahria University, Islamabad, an MSc in Management Science from CASE, UET Taxila, and an MSc in Mobile & Distributed Computer Networks from Leeds Metropolitan University, UK. His areas of specialization include Networks, Technology & Innovation Management.
+
+Muhammad Ghayas Uddin, an Assistant Professor and a faculty member of the Department of Electrical Engineering, holds an M.Phil in Microelectronics Engineering from Punjab University, Pakistan. His specialization is in VLSI Design & Fabrication.
+
+Saima Siddiqui, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned her MS in Engineering Management from CASE, Islamabad. Her areas of specialization are Electronics and Engineering Management.
+
+Ahmed Raheeq Sultan, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Information Security from NUST Pakistan. His areas of specialization include Electronic Design, Network Security, Forensics, and Cryptography.
+
+Aima Zahid, a Lecturer and a faculty member of the Department of Electrical Engineering, earned her MS in Electrical Engineering from the Information Technology University of the Punjab. Her areas of specialization are RF and Microwave, and Nanotechnology.
+
+Ali Fahim Khan, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Electrical Engineering from NUST, Pakistan. His specialization is in Signal Processing. He is currently abroad for his PhD.
+
+Ammara Yaseen, a Lecturer and a faculty member of the Department of Electrical Engineering, earned her MS in Data Science from NED University of Engineering and Technology. Her areas of specialization are Data Science and Data Visualization.
+
+Asia Aman, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Electrical Engineering from the Institute of Space Technology. Her area of specialization is Signals and Image Processing.
+
+Faran Mahmood, a Lecturer and a faculty member of the Department of Electrical Engineering, earned his M.Phil in Systems Engineering from the University of Cambridge. His areas of specialization are Systems Engineering and Product Design.
+
+Haroon Ibrahim, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Signal and Image Processing from IST, Pakistan. His areas of specialization are Communications and Signal Image Processing.
+
+Muddser Qammer Raja, a Lecturer and a faculty member of the Department of Electrical Engineering, earned his MS in Electrical Engineering from Abbasyn University, Islamabad. His area of specialization is Electrical Power.
+
+Muhammad Asad, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Computer System Engineering from GIK Institute, Pakistan. His areas of specialization are Data Science, Machine Learning, and Feature Engineering. He is currently abroad for his PhD.
+
+Muhammad Hamza Rafique Bhatti, a Lecturer and a faculty member of the Department of Electrical Engineering, earned his MS in Software Engineering from COMSATS University, Islamabad. His areas of specialization are Deep Learning and Machine Learning.
+
+Reeda Saeed is a Lecturer and a faculty member of the Department of Electrical Engineering, earned her Masters in Computer Science from Ghulam Ishaq Khan Institute (GIKI). Her area of specialization is AI in Healthcare.
+
+Muhammad Jaleed Khan, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Electrical Engineering from IST Islamabad. His areas of specialization are Deep Learning, Hyperspectral Image Analysis, and Computer Vision. He is currently abroad for his PhD.
+
+Muhammad Nadeem Yousaf, a Lecturer and a faculty member of the Department of Electrical Engineering, earned his MS in Computer Science from GIK Institute, Pakistan. His areas of specialization are Evolutionary Computing and Information Security.
+
+Natiqa Gul, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Computer Engineering from GIKI. Her areas of specialization are Advanced Machine Learning and Computer Vision.
+
+Saniya Zafar, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Electrical Engineering from IST Pakistan. Her area of specialization is Wireless Communications.
+
+Tayyaba Arshad, a Lecturer and a faculty member of the Department of Electrical Engineering, earned her MS in Data Science from FAST-NUCES Islamabad. Her areas of specialization are Natural Language Processing and Medical Image Processing.
+
+Tufail Sajjad Shah Hashmi, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Computer Science from NUST, Pakistan. His areas of specialization are Artificial Intelligence and Computer Vision.
+
+Usman Ali Afzal, a Lecturer and a faculty member of the Department of Electrical Engineering, earned his MS in Electrical Engineering from NUST-SEECS, Islamabad. His areas of specialization are Control Systems and Power Electronics.
+
+Zil E Huma, a Lecturer and a faculty member of the Department of Electrical Engineering, holds an MS in Electrical Engineering from NUST, Pakistan. Her areas of specialization are Electronics and Control Systems.
+
+Asad Ur Rehman, a Lab Engineer and a faculty member of the Department of Electrical Engineering, earned his BS in Electrical Engineering from Air University, Islamabad. His areas of specialization are Electronics and Embedded Systems.
+
+Iqra Saeed, a Lab Engineer and a faculty member of the Department of Electrical Engineering, holds a BS in Electrical Engineering from IST, Islamabad. Her areas of specialization are Electronics and Embedded Systems.
+
+Meer Hamza Ahmad, a Lab Engineer and a faculty member of the Department of Electrical Engineering, earned his BS in Electrical Engineering from COMSATS Islamabad. His area of specialization is Embedded Systems.
+
+Muhammad Numan, a Lab Engineer and a faculty member of the Department of Electrical Engineering, holds a BS in Electrical Engineering from the International Islamic University Islamabad and an MS in Electrical Engineering from Muhammad Ali Jinnah University Islamabad. His areas of specialization are Control Systems, Signal Processing, and Embedded Systems.
+
+Haroon Waris, an Adjunct Faculty and a member of the Department of Electrical Engineering, earned his PhD in Embedded Systems from Nanjing University of Aeronautics and Astronautics (NUAA), China. His areas of specialization include IP/SoC Design & Verification, Approximate Computing, Hardware Security, AI Hardware Accelerators, and VLSI for Digital Signal Processing and Communications. He is an HEC Approved Ph.D Supervisor.
+
+Muhammad Yasir Qadri, an Adjunct Faculty and a member of the Department of Electrical Engineering, holds a PhD from the University of Essex, UK. His areas of specialization are Hardware Security and Energy/Performance Optimization in Reconfigurable MPSoC Architectures.
+
+Sajid Baloch, an Adjunct Faculty and a member of the Department of Electrical Engineering, earned his PhD from the University of Edinburgh, UK. His area of specialization is Fault Tolerant IC Design.
+
+Syed Amer Gilani, an Adjunct Faculty and a member of the Department of Electrical Engineering, holds a PhD in Electronics Engineering from the University of Surrey, UK. His area of specialization is Satellite Systems.
+
+Usman Qayyum, an Adjunct Faculty and a member of the Department of Electrical Engineering, earned his PhD from the Australian National University, Australia. His areas of specialization are Visual-Inertial SLAM and Convex Optimization.
+
+Fahad Al Ghazali, an Adjunct Faculty and a member of the Department of Electrical Engineering, holds an MS from CASE, UET Taxila. His areas of specialization are Hardware Optimization of Complex Algorithms and High-Level Synthesis.
+
+Muhammad Mohsin Naveed, a Senior Research Associate and Adjunct Faculty member of the Department of Electrical Engineering, earned his BSc in Electrical Engineering from the University of Engineering and Technology Lahore and an MSc in Power Electronics from The University of Nottingham, United Kingdom. His area of specialization is Power Electronics.
+
+Zakir Ur Rehman, a Research Associate and Adjunct Faculty member of the Department of Electrical Engineering, holds a BS in Electrical Power Engineering from COMSATS University Islamabad (Abbottabad Campus). His area of specialization is Power Engineering.

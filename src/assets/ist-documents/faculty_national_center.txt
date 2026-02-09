@@ -1,0 +1,13 @@
+The faculty of the National Centre for Remote Sensing and Geo-Informatics (NCRG) at the Institute of Space Technology (IST) includes several distinguished members.
+
+Muhammad Ateeq Qureshi, who serves as the Head of the Department and is a faculty member of NCRG, holds a PhD from the University of Chinese Academy of Sciences (UCAS) in Beijing, China. His areas of specialization include Geographic Information Systems (GIS), Remote Sensing, and Glacier Geomorphology.
+
+Muhammad Jahanzeb Malik is an Assistant Professor and a faculty member of NCRG. He holds a PhD from the University of Twente (ITC) in Enschede, the Netherlands, and specializes in Microwave and Optical Remote Sensing.
+
+Abdul Basit, a Lecturer and a faculty member of NCRG, holds an MS from the Institute of Space Technology, NCRG Karachi. His area of expertise is Remote Sensing and Geographic Information Science (GISc).
+
+Rao Muhammad Zahid Khalil is also a Lecturer and a faculty member of NCRG. He holds an MS from the Institute of Space Technology, NCRG Karachi, and specializes in Geography, Hydrology, Microwave Remote Sensing, and GIS.
+
+Sajid Majeed, another Lecturer and a faculty member of NCRG, holds an MS from the National University of Computer & Emerging Sciences (NUCES-FAST), Karachi. His areas of specialization include Data Science, Machine Learning, Artificial Intelligence, and Deep Learning.
+
+Each faculty member brings a wealth of knowledge and expertise in their respective fields, contributing significantly to the educational and research missions of NCRG.

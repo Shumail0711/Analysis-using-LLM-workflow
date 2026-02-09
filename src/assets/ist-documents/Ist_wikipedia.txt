@@ -1,0 +1,78 @@
+The Institute of Space Technology (also known as IST) (Urdu: ادارہ خلائی ٹیکنالوجی) is a public university located in Islamabad, Pakistan. It is focused on the study of astronomy, aerospace engineering, avionics engineering and astronautics. [2]
+
+Established in 2002 under the auspices of the Pakistan's National Space Agency (SUPARCO). IST offers a wide array of undergraduate and graduate degrees in partnership of Beihang University and University of Surrey.[2] Since 2008, IST has an ISO certified management standard. IST is based on a 573 acre campus on the outskirts of Islamabad.[2][3] It is one of the top institutions as ranked by the Higher Education Commission.[4] Materials Inspection, Testing, and Characterization of Materials, a three-day workshop, was organised from March 8–10, 2022 at the Department of Materials Science and Engineering, (IST) Islamabad.[5]
+
+ICUBE - IST CubeSat Program
+Main articles: ICube-1 and ICUBE-Q
+Institute of Space Technology on 21 November 2013, launched Pakistan's first Cubesat satellite, ICUBE-1, onboard Dnepr launch vehicle from Yasny launch base, Russia. Its transmitted signal can be heard on VHF band. It has a mass of 1.1 kg & has a volume of 10 cm cube, it houses several sensors to collect data for scientific purposes. ICUBE-1 is a fully autonomous satellite and is capable of maintaining its health via its on-board computer. ICUBE-1 will open up a wide range of future experiments that can be carried on Cubesat in the domain of imaging, microgravity, biology, nanotechnology, space dynamics, chemistry, space physics and various other fields.[6][7][8] Currently IST is working on historic Lunar CubeSat ICUBE-Q in collaboration with Shanghai Jiao Tong University China. ICUBE-Q is set to be launched via Chinese Chang'E6 lunar mission in 1st week of May 2024.
+
+Academics
+Degree programs
+The disciplines and the degree programs offered by IST have been given below. The regular duration of BS and MS / M Phil degree programs is 4 and 2 years, respectively.
+
+Discipline	Degree Program
+Aerospace Engineering Department offers BS / BE, MS / M Phil, Ph.D.
+Avionics Engineering Department offers BS / BE
+Electrical Engineering Department offers BS / BE, MS / M Phil, Ph.D.
+Materials Science & Engineering Department offers BS / BE, MS / M Phil, Ph.D.
+Mechanical Engineering Department offers BS / BE, MS / M Phil, Ph.D.
+Computer Science Department offers BS / BE, MS / M Phil
+Space Science Department offers BS / BE, MS / M Phil, Ph.D.
+Mathematics Department offers BS / BE, MS / M Phil, Ph.D.
+Physics Department offers BS / BE
+Departments
+At present, the institute holds the following Departments there are 9 departments in total that names are:
+
+Aeronautics & Astronautics
+Electrical Engineering
+Applied Mathematics & Statistics
+Materials Science & Engineering
+Mechanical Engineering
+Space Science
+National Centre for Remote-Sensing & Geo-Informatics
+Humanities & Sciences
+Avionics Engineering 
+Annual events
+IST Youth Carnival (IYC)
+It was called as "All-Pakistan Inter University Challenge". IST has organized the Challenge every year for four years. The event attracts participation from the universities/degree awarding institutes/post-graduate colleges in the Rawalpindi/Islamabad area as well as from the cities of Taxila and Peshawar. The event includes over a dozen extracurricular competitions such as dramatics, short film, all-rounder, Mushaira and Battle of the Bands. Recently, the name of this event has now been replaced by IST Youth Carnival, or IYC.[21][22]
+
+World Space Week.[23]
+In 1999, the United Nations General Assembly declared 4–10 October as World Space Week. Pakistan is endeavoring to enter into the realm of Space Science & Technology and related applications. In past couple of decades IST has seen considerable advances in this field. The success of any space program relies greatly on public understanding and support. IST in collaboration with our National Space Agency (SUPARCO) is communicating the benefits of Space Technology to the public on regular basis. The institute has pioneered the observation of the International World Space Week in Pakistan. Walks, lectures and seminars are arranged in schools and colleges of the Twin-City area by students of IST. The week culminates with a full day variety show at the Institute that includes space quiz, poster competitions, space cinema and a musical concert.
+
+IST Culture Fest
+IST Culture fest is one of its kind two days event held at IST in June 2022. The event consisted of series of fun-filled and interesting events including Concert, Mushaira, Dramy-Bazian and Voice Alpha.
+
+Extracurricular
+Societies
+ArtIST: promotes the spirit of Art among engineers by organizing painting, sketching, rebel pen, truck art, craft exhibition & Visage Canvas competitions.
+IST Youth Club (IYC): IST YOUTH CLUB formerly known as Iqbal Youth Club is one of the most senior society of IST which deals with Ilm-o-adab and character building of the Youth. It covers all the national days of Pakistan by doing overwhelming events for the motivation of youth. Moreover, it also covers the competitions and events referred by Higher Education Commission (HEC). IYC is contributing its best to let the youth know about their culture and make themselves a worthy citizen.
+Hawks Adventure: It is the most famous and active adventure club of Islamabad.
+Aero Society: for students interested in hobby projects/research related to Aerospace.
+Communication Society: for students interested in hobby projects/research related to Communications,
+Material Advantage Chapter: for students interested in hobby projects/research related to Materials Science.
+IST Media Club: It consists of a team of photographers, graphic designers, video editors, programmers, digital artists, writers and social media experts whose job is to market and publicize the events and happening in IST.
+Pegasus: a bi-monthly, bilingual (English/Urdu) magazine that encourages students to hone their literary skills.
+News Corridor: campus newsletter covering happenings in the institution.
+Fidens: The Adventure Club - for outdoor enthusiasts.
+I4Gx : E-Gaming Society
+AOUJ: Performing Arts Club - for the promotion of drama, acting and dance.
+Sports Society: oversees the inter-university and intra-university sports fixtures.
+Umeed: a philanthropic organization that helps underprivileged students in the Twin-City area.
+Blood Donor Club: organizes an annual blood donation camp.
+Environmental Club: raises awareness and takes concrete measures for environmental protection.
+MATHEMA: The mathematics society of IST - Aims to provide enrichment and challenges for students of IST who demonstrate strong interest in mathematics.
+SPAM: Student Magazine,
+Goonj: The Music Society - promotes music and music teaching. Arranges musical performances.
+Space Society:Promotes research and development in Astronautics, GIS, RS, Satellite Communication and Astronomy
+Awaz: The Debating Society- promotes art of public speaking and communication skills of students
+American Society of Mechanical Engineers (ASME) IST Chapter: Organize technical Competitions, lectures, seminars and workshops in related fields. Participation in intervarsity technical competitions.
+IST Robotics Society (IRS):Organize events, workshops, and competitions to promote robotics education and innovation. Members can collaborate on projects, participate in competitions, and attend lectures and workshops to learn more about the field.
+iCube-1 is a miniaturised satellite built by the Institute of Space Technology in Pakistan, with an objective to provide a wide range of future experiments in the domain of imaging, microgravity, biology, nanotechnology, space dynamics, chemistry, space physics and various other fields. It can also provide a testbed for developing satellite constellations for specific applications.
+
+Launched in Low Earth Orbit, onboard Dnepr launch vehicle from Dombarovsky, Russia. It houses several sensors to collect data for scientific purposes. iCUBE-1 is a fully autonomous satellite and is capable of maintaining its health via its on-board computer. It is a single-unit CubeSat, cubic in shape with sides of 10 centimetres (3.9 in). Five sides of the satellites carry two triple-junction (ATJ) solar cells, providing the spacecraft with 2 watts of power. Each cell has dimensions of 40 by 80 millimetres (1.6 in × 3.1 in), and at the beginning of operations has an efficiency of at least 27.5% at 25 °C.
+
+iCube-1 carries a camera with a resolution of 640 by 480 pixels. Communications with the ground are achieved through a 435.060 MHz uplink audio frequency-shift keying to provide a datarate of 1,200 bits per second. The 145.947 MHz downlink, which uses binary phase-shift keying, also provides a datarate of 1,200 bits per second. The satellite also carries CW and AX25 beacons. The programme cost around 3-3.5 million rupees.
+
+Spokesperson IST Raza Butt said that it is a positive move for technology in Pakistan. "The world is moving towards miniaturization. The launch cost is significantly low for CubeSats as compared to the bigger satellites. The low cost factor is very attractive for researchers who can test their payloads using these cubesats and then incorporate this technology in their bigger satellites", he commented.
+
+Initially, iCUBE-1 will transmit a Continuous Wave Morse coded beacon with message “iCUBE-1 First CubeSat of Pakistan”. Amateur radio operators have a great opportunity to hear those signals on the VHF band. The satellite will send its health data to ground stations and can also be commanded from Satellite tracking and Control Station at IST.

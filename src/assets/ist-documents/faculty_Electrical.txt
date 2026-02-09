@@ -1,0 +1,22 @@
+The faculty of the Department of Electrical Engineering at the Institute of Space Technology (IST) comprises a distinguished team of professionals with diverse areas of expertise.
+
+Khurram Khurshid, the Head of the Department and a faculty member of the Department of Electrical Engineering, holds a PhD in Computer Vision from Paris Descartes University, France. His areas of specialization include Machine Learning, Hyper-spectral Image Analysis, and Document Image Processing. He is an HEC Approved Ph.D Supervisor.
+
+Qamar ul Islam, a Professor and a faculty member of the Department of Electrical Engineering, earned his PhD from the University of Surrey, UK. His area of specialization is Satellite Communication and Space Systems.
+
+Rehan Mahmood, an Associate Professor and a faculty member of the Department of Electrical Engineering, holds a PhD in Satellite Communication from Beihang University, China. His specialization is in Spacecraft Engineering.
+
+Adnan Zafar, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned his PhD in Electrical and Electronic Engineering from the University of Surrey, UK. His area of specialization is Signal Processing for Wireless Communication.
+
+Amena Ejaz Aziz, an Assistant Professor and a faculty member of the Department of Electrical Engineering, holds a PhD in Electronics & Information Engineering from Hong Kong Polytechnic University. Her specialization is in Visible Light Communication.
+
+Benish Amin, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned her PhD in Software Engineering from NUST Pakistan. Her area of specialization is Digital Image Processing, and she is an HEC Approved Ph.D Supervisor.
+
+Fazal Hameed, an Assistant Professor and a faculty member of the Department of Electrical Engineering, holds a PhD in Embedded Systems from the Karlsruhe Institute of Technology, Germany. His specialization is in Embedded Systems.
+
+Komal Nain Sukhia, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned her PhD in Software Engineering from NUST Pakistan. Her area of specialization is Digital Image Processing, and she is an HEC Approved Ph.D Supervisor.
+
+Madiha Tahir, an Assistant Professor and a faculty member of the Department of Electrical Engineering, holds a PhD in Computer Engineering from GIK Institute, Pakistan. Her areas of specialization include Evolutionary Computing, Data Analysis, and Deep Learning. She is an HEC Approved Ph.D Supervisor.
+
+S. Zainab Farooq, an Assistant Professor and a faculty member of the Department of Electrical Engineering, earned her PhD in Electronic & Information Engineering from Beihang University, China. Her specialization is in Satellite Navigation and Signal Processing.
+
