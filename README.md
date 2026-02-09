@@ -1,7 +1,7 @@
 # 📄 Offline Analysis of Documents Using LLM Conversational Workflow
 
 ## 🎓 Final Year Project (BS Computer Science)
-**Institute of Space Technology (IST), Islamabad**
+ 
 
 ---
 
