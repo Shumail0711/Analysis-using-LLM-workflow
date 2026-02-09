@@ -105,15 +105,12 @@ The system supports multiple document formats, generates document summaries, ans
 
 ## 📄 Documentation & Research
 
-- 📘 **Full Thesis**  
-  👉 [View Thesis PDF](docs/Thesis.pdf)
-
+- 📊 **Project Presentation**  
+  👉 [View Presentation]( FYP presentation.pptx)
+  
 - 📑 **Research Paper**  
   👉 [View Research Paper PDF](docs/Research_Paper.pdf)
-
-- 📊 **Project Presentation**  
-  👉 [View Presentation](docs/Presentation.pdf)
-
+  
 ---
 
 ## 🤝 Collaboration & Code Ownership
