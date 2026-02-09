@@ -106,8 +106,6 @@ The system supports multiple document formats, generates document summaries, ans
 ## 📄 Documentation & Research
 
 - 📊 **Project Presentation**  
-   [Click here to view the presentation](FYP%20presentation.pptx)
-  %20FYP%20presentation.pptx
 [Click here to view the presentation](%20FYP%20presentation.pptx)
 
 - 📑 **Research Paper**  
