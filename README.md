@@ -102,14 +102,15 @@ The system supports multiple document formats, generates document summaries, ans
   - Enhance conversational response quality
 
 ---
-
 ## 📄 Documentation & Research
 
 - 📊 **Project Presentation**  
-  👉 [View Presentation](FYP%20presentation.pptx)
-  
+  👉 [View Presentation](FYP presentation.pptx)
+
 - 📑 **Research Paper**  
-   
+  👉 [View Research Paper PDF](Research_Paper.pdf)
+
+ 
   
 ---
 
