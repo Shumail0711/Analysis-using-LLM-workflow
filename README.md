@@ -109,7 +109,7 @@ The system supports multiple document formats, generates document summaries, ans
 [Click here to view the presentation](%20FYP%20presentation.pptx)
 
 - 📑 **Research Paper**  
-  👉 [View Research Paper PDF](Research_Paper.pdf)
+  👉 [View Research Paper PDF](Research%20Paper%20final.pdf)
 
   
 ---
